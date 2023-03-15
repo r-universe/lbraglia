@@ -1,6 +1,10 @@
 [
   {
-    "package": "aplore3",
+    "package": "ifctools",
+    "oncran": true
+  },
+  {
+    "package": "RStata",
     "oncran": true
   },
   {
@@ -8,11 +12,7 @@
     "oncran": true
   },
   {
-    "package": "ifctools",
-    "oncran": true
-  },
-  {
-    "package": "RStata",
+    "package": "aplore3",
     "oncran": true
   },
   {

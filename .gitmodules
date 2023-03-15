@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "aplore3"]
-	path = aplore3
-	url = https://github.com/lbraglia/aplore3
-	shallow = true
-	registered = true
-[submodule "aprean3"]
-	path = aprean3
-	url = https://github.com/lbraglia/aprean3
-	shallow = true
-	registered = true
 [submodule "ifctools"]
 	path = ifctools
 	url = https://github.com/lbraglia/ifctools
@@ -21,6 +11,16 @@
 [submodule "RStata"]
 	path = RStata
 	url = https://github.com/lbraglia/rstata
+	shallow = true
+	registered = true
+[submodule "aprean3"]
+	path = aprean3
+	url = https://github.com/lbraglia/aprean3
+	shallow = true
+	registered = true
+[submodule "aplore3"]
+	path = aplore3
+	url = https://github.com/lbraglia/aplore3
 	shallow = true
 	registered = true
 [submodule "telegram"]
