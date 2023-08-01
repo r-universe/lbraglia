@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RStata"]
+	path = RStata
+	url = https://github.com/lbraglia/rstata
 [submodule "aplore3"]
 	path = aplore3
 	url = https://github.com/lbraglia/aplore3
@@ -11,9 +14,6 @@
 [submodule "ifctools"]
 	path = ifctools
 	url = https://github.com/lbraglia/ifctools
-[submodule "RStata"]
-	path = RStata
-	url = https://github.com/lbraglia/rstata
 [submodule "telegram"]
 	path = telegram
 	url = https://github.com/lbraglia/telegram
